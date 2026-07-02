@@ -1,0 +1,72 @@
+/* ======================================================
+   FutureX - Variables
+   ====================================================== */
+
+:root{
+
+    /* Primary Colors */
+
+    --primary:#3B82F6;
+    --primary-light:#60A5FA;
+
+    /* Secondary */
+
+    --secondary:#8B5CF6;
+    --secondary-light:#A78BFA;
+
+    /* Accent */
+
+    --accent:#06B6D4;
+
+    /* Background */
+
+    --background:#050816;
+    --background-light:#0B1024;
+    --surface:#10182F;
+    --surface-light:#182445;
+
+    /* Glass */
+
+    --glass:rgba(255,255,255,.06);
+    --glass-border:rgba(255,255,255,.12);
+
+    /* Text */
+
+    --white:#FFFFFF;
+    --text:#E5E7EB;
+    --text-light:#94A3B8;
+    --text-dark:#64748B;
+
+    /* Status */
+
+    --success:#22C55E;
+    --warning:#FACC15;
+    --danger:#EF4444;
+
+    /* Shadow */
+
+    --shadow-small:0 5px 15px rgba(0,0,0,.20);
+
+    --shadow-medium:0 10px 35px rgba(0,0,0,.30);
+
+    --shadow-large:0 20px 60px rgba(0,0,0,.45);
+
+    /* Border */
+
+    --border-radius:18px;
+
+    --border-radius-large:30px;
+
+    /* Transition */
+
+    --transition:.35s ease;
+
+    /* Layout */
+
+    --container:1200px;
+
+    /* Navbar */
+
+    --navbar-height:80px;
+
+}
