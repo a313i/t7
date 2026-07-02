@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FutureX | الصفحة الرئيسية</title>
+
+    <meta name="description" content="موقع احترافي بتصميم عصري داكن">
+
+    <meta name="keywords" content="FutureX, Website, Portfolio">
+
+    <meta name="author" content="FutureX">
+
+    <link rel="stylesheet" href="assets/css/variables.css">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <link rel="stylesheet" href="assets/css/animations.css">
+
+    <link rel="stylesheet" href="assets/css/responsive.css">
+
+</head>
+
+<body>
+
+    <!-- سيتم إضافة Navbar هنا -->
+
+
+
+    <!-- سيتم إضافة Hero Section هنا -->
+
+
+
+    <!-- سيتم إضافة Services هنا -->
+
+
+
+    <!-- سيتم إضافة Portfolio هنا -->
+
+
+
+    <!-- سيتم إضافة Newsletter هنا -->
+
+
+
+    <!-- سيتم إضافة Contact هنا -->
+
+
+
+    <!-- سيتم إضافة Footer هنا -->
+
+
+
+    <script src="assets/js/app.js"></script>
+
+    <script src="assets/js/menu.js"></script>
+
+    <script src="assets/js/animation.js"></script>
+
+    <script src="assets/js/slider.js"></script>
+
+    <script src="assets/js/newsletter.js"></script>
+
+    <script src="assets/js/contact.js"></script>
+
+</body>
+
+</html>
