@@ -3,71 +3,119 @@
 
 <head>
 
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>FutureX</title>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>FutureX | الصفحة الرئيسية</title>
-
-    <meta name="description" content="موقع احترافي بتصميم عصري داكن">
-
-    <meta name="keywords" content="FutureX, Website, Portfolio">
-
-    <meta name="author" content="FutureX">
-
-    <link rel="stylesheet" href="assets/css/variables.css">
-
-    <link rel="stylesheet" href="assets/css/style.css">
-
-    <link rel="stylesheet" href="assets/css/animations.css">
-
-    <link rel="stylesheet" href="assets/css/responsive.css">
+<link rel="stylesheet" href="assets/css/variables.css">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/animations.css">
+<link rel="stylesheet" href="assets/css/responsive.css">
 
 </head>
 
 <body>
 
-    <!-- سيتم إضافة Navbar هنا -->
+<!--================ NAVBAR ================-->
 
+<header>
 
+<div class="container">
 
-    <!-- سيتم إضافة Hero Section هنا -->
+<nav class="navbar">
 
+<div class="logo">
 
+<h2>FutureX</h2>
 
-    <!-- سيتم إضافة Services هنا -->
+</div>
 
+<ul class="nav-links">
 
+<li><a href="#">الرئيسية</a></li>
 
-    <!-- سيتم إضافة Portfolio هنا -->
+<li><a href="#about">من نحن</a></li>
 
+<li><a href="#services">الخدمات</a></li>
 
+<li><a href="#portfolio">الأعمال</a></li>
 
-    <!-- سيتم إضافة Newsletter هنا -->
+<li><a href="#contact">تواصل</a></li>
 
+</ul>
 
+<div class="menu-toggle">
 
-    <!-- سيتم إضافة Contact هنا -->
+<span></span>
 
+<span></span>
 
+<span></span>
 
-    <!-- سيتم إضافة Footer هنا -->
+</div>
 
+</nav>
 
+</div>
 
-    <script src="assets/js/app.js"></script>
+</header>
 
-    <script src="assets/js/menu.js"></script>
+<!--================ HERO ================-->
 
-    <script src="assets/js/animation.js"></script>
+<section class="hero">
 
-    <script src="assets/js/slider.js"></script>
+<div class="container">
 
-    <script src="assets/js/newsletter.js"></script>
+<div class="hero-content">
 
-    <script src="assets/js/contact.js"></script>
+<h1>
+
+مستقبل تصميم المواقع يبدأ هنا
+
+</h1>
+
+<p>
+
+نقوم بتصميم مواقع احترافية سريعة ومتوافقة مع جميع الأجهزة.
+
+</p>
+
+<a href="#services" class="btn">
+
+ابدأ الآن
+
+</a>
+
+</div>
+
+<div class="hero-image">
+
+<div class="glass card float glow">
+
+<h2>FutureX</h2>
+
+<p>Professional Website</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<script src="assets/js/app.js"></script>
+
+<script src="assets/js/menu.js"></script>
+
+<script src="assets/js/animation.js"></script>
+
+<script src="assets/js/slider.js"></script>
+
+<script src="assets/js/newsletter.js"></script>
+
+<script src="assets/js/contact.js"></script>
 
 </body>
 
